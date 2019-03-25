@@ -1,5 +1,5 @@
 #language: pt
-Funcionalidade: Alura
+Funcionalidade: TaskIt
 
   @Autenticacao
   Cenario:Criar e autenticar usuario no TaskIt
