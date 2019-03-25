@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 
 public class Web {
 
-    private static final String BINARY_CHROME_DRIVER = Paths.get("").toAbsolutePath().toString() + "/src/main/resources/drivers/chromedriver";
+    public static final String BINARY_CHROME_DRIVER = Paths.get("").toAbsolutePath().toString() + "/src/main/resources/drivers/chromedriver";
 
     public static WebDriver getChromeDriver() {
         System.setProperty("webdriver.chrome.driver", BINARY_CHROME_DRIVER);
