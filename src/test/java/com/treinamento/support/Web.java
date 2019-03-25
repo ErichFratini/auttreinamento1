@@ -10,7 +10,7 @@ import java.util.concurrent.TimeUnit;
 public class Web {
 	static ChromeOptions options = new ChromeOptions();
 	//
-    public static final String BINARY_CHROME_DRIVER = "/home/erich/Downloads/chromedriver";
+    public static final String BINARY_CHROME_DRIVER = "/home/erich/Downloads/drivers/chromedriver";
 
     public static WebDriver getChromeDriver() {
     	//options.setBinary("/src/main/resources/drivers/chromedriver");
