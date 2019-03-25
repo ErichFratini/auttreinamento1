@@ -9,10 +9,12 @@ import java.util.concurrent.TimeUnit;
 
 public class Web {
 	static ChromeOptions options = new ChromeOptions();
-	//options.setBinary("/src/main/resources/drivers/chromedriver");
+	//
     public static final String BINARY_CHROME_DRIVER = Paths.get("").toAbsolutePath().toString() + "/src/main/resources/drivers/chromedriver";
 
     public static WebDriver getChromeDriver() {
+    	options.setBinary("/src/main/resources/drivers/chromedriver");
+    	options.addArguments("--headless");
     	options.addArguments("--no-sandbox");
         options.addArguments("--disable-dev-shm-usage");
         System.setProperty("webdriver.chrome.driver", BINARY_CHROME_DRIVER);
