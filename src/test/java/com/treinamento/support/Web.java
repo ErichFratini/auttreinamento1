@@ -8,14 +8,11 @@ import java.nio.file.Paths;
 import java.util.concurrent.TimeUnit;
 
 public class Web {
-
-	//
-    public static final String BINARY_CHROME_DRIVER = "/home/erich/Downloads/drivers/chromedriver";
-    public static ChromeOptions options = new ChromeOptions();
+    //public static final String BINARY_CHROME_DRIVER = "/home/erich/Downloads/drivers/chromedriver";
     public static WebDriver getChromeDriver() {
-    	//options.setBinary("/src/main/resources/drivers/chromedriver");
-        System.setProperty("webdriver.chrome.driver", BINARY_CHROME_DRIVER);
-    	//options.addArguments("--headless");
+    	ChromeOptions options = new ChromeOptions();
+        System.setProperty("webdriver.chrome.driver", "/src/main/resources/drivers/chromedriver");
+    	options.addArguments("--headless");
         options.addArguments("start-maximized"); // open Browser in maximized mode
         options.addArguments("disable-infobars"); // disabling infobars
         options.addArguments("--disable-extensions"); // disabling extensions
