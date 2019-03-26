@@ -12,7 +12,7 @@ public class Web {
     public static WebDriver getChromeDriver() {
     	ChromeOptions options = new ChromeOptions();
         System.setProperty("webdriver.chrome.driver", BINARY_CHROME_DRIVER);
-    	//options.addArguments("--headless");
+    		options.addArguments("--headless");
         options.addArguments("start-maximized"); // open Browser in maximized mode
         options.addArguments("disable-infobars"); // disabling infobars
         options.addArguments("--disable-extensions"); // disabling extensions
