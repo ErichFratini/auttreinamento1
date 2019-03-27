@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac082da-ee04-466d-b56b-46136b907e8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/youtubePage/youtubePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/YouTube/LoginYT.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/CarreiraPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/steps/AutenticacaoSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/steps/AutenticacaoSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/steps/CursosSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/steps/ListarTodosOsInstrutoresSteps.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TaskIt/login.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/auttreinamento1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/RunTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/pageobjects/CarreiraPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/pageobjects/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/pageobjects/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/steps/AutenticacaoSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/steps/AutenticacaoSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/steps/CursosSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/steps/ListarTodosOsInstrutoresSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Web.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Web.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Reports.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Reports.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Utils.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -118,11 +101,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+            <state relative-caret-position="105">
+              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -154,13 +137,13 @@
         <option value="$PROJECT_DIR$/src/test/java/pageobjects/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/login.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/treinamento/steps/AutenticacaoSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/YouTube/LoginYT.feature" />
         <option value="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/youtubePage/youtubePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java" />
       </list>
     </option>
   </component>
@@ -253,6 +236,17 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="TaskIt" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="auttreinamento1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auttreinamento1" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auttreinamento1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auttreinamento1" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="Destination" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -261,7 +255,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553711527684" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553711709044" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -403,16 +397,17 @@
       <option name="project" value="LOCAL" />
       <updated>1553537857072</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="teste">
+      <created>1553711543335</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553711543335</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunTest - 2019.03.26 at 16h 48m 19s.xml">
-      <configuration name="RunTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RunTest - 2019.03.26 at 16h 49m 42s.xml">
-      <configuration name="RunTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Feature__LoginYT - 2019.03.26 at 16h 56m 50s.xml">
       <configuration name="Feature: LoginYT" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -435,6 +430,12 @@
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RunTest - 2019.03.27 at 15h 25m 03s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.03.27 at 15h 29m 54s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2019.03.27 at 15h 31m 49s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -511,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -549,6 +543,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -576,17 +584,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        <state relative-caret-position="180">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>
