@@ -51,4 +51,6 @@ public class LoginPage {
         //Reports.tirarFoto(this.navegador, Utils.getTimestamp());
         return this;
     }
+
+
 }

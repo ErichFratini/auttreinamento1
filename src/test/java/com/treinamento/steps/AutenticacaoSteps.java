@@ -19,29 +19,9 @@ public class AutenticacaoSteps {
 
     private LoginPage loginPage = new LoginPage(Hooks.getNavegador());
 
-//    @Given("^que eu acessei a plataforma$")
-//    public void acessarSiteDaAlura() throws Exception {
-//        this.loginPage.navigateTo("http://www.alura.com.br/");
-//    }
-//
-//    @When("^eu logar na plataforma com o usuário \"([^\"]*)\" e senha \"([^\"]*)\"$")
-//    public void preencherCamposParaLogin(String user, String senha) throws Exception {
-//        this.loginPage.clicarNoLinkEntrar().preencherUsuario(user).preencherSenha(senha);
-//    }
-//
-//    @Then("^eu vou acessar o meu dashboard$")
-//    public void acessarDashboard() throws Exception {
-//        boolean dashboardPage = this.loginPage.logar().isDashboardPage();
-//        if (dashboardPage) {
-//            Reports.tirarFoto(Hooks.getNavegador(), Utils.getTimestamp());
-//        } else {
-//            System.out.println("Erro!! Não encontrei a sua página!!!");
-//        }
-//    }
-
     @Dado("^que eu acessei o sistema$")
     public void que_eu_acessei_o_sistema() throws Exception {
-        this.loginPage.navigateTo("http://www.juliodelima.com.br/taskit/");
+        this.loginPage.navigateTo ("http://www.juliodelima.com.br/taskit/");
     }
 
     @Quando("^eu realizar o cadastro com nome \"([^\"]*)\" login \"([^\"]*)\" e senha \"([^\"]*)\"$")
