@@ -3,10 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="5ac082da-ee04-466d-b56b-46136b907e8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/drivers/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/drivers/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/youtubePage/youtubePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/youtubePage/youtubePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/Hooks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Reports.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Reports.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TaskIt/login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/YouTube/LoginYT.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/drivers/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/drivers/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/RunTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Web.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/treinamento/support/Web.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,58 +27,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/steps/AutenticacaoSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="23" column="76" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/TaskIt/login.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/Hooks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/YouTube/LoginYT.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="90">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -80,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            <state relative-caret-position="112">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,14 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/youtubePage/youtubePage.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/YouTube/LoginYT.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="48" selection-start-column="33" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -104,17 +59,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+            <state relative-caret-position="120">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/youtubePage/youtubePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+            <state relative-caret-position="157">
+              <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,11 +97,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/treinamento/steps/AutenticacaoSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/resources/YouTube/LoginYT.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/youtubePage/youtubePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/youtubePage/youtubePage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/YouTube/LoginYT.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java" />
       </list>
     </option>
   </component>
@@ -171,6 +130,12 @@
               <item name="auttreinamento1" type="b2602c69:ProjectViewProjectNode" />
               <item name="auttreinamento1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auttreinamento1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auttreinamento1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="auttreinamento1" type="b2602c69:ProjectViewProjectNode" />
@@ -226,6 +191,16 @@
               <item name="auttreinamento1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="treinamento" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+              <item name="youtubeSteps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auttreinamento1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auttreinamento1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -234,18 +209,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="TaskIt" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="auttreinamento1" type="b2602c69:ProjectViewProjectNode" />
               <item name="auttreinamento1" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="auttreinamento1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="auttreinamento1" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="Destination" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+              <item name="YouTube" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,17 +228,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553711709044" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553719023844" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/resources/TaskIt" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/main/resources/drivers" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
       <recent name="$PROJECT_DIR$/src/test/resource" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features/YouTube" />
+      <recent name="$PROJECT_DIR$/src/test/resources/features/TaskIt" />
+      <recent name="$PROJECT_DIR$/src/test/resources/TaskIt" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -280,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RunTest">
+  <component name="RunManager" selected="Cucumber java.Scenario: Abrir playlist">
     <configuration name="Feature: LoginYT" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/YouTube/LoginYT.feature" />
@@ -317,15 +292,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Autenticar usuário na Alura (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Abrir playlist" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/login.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/YouTube/LoginYT.feature" />
       <option name="GLUE" value="com.treinamento" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="auttreinamento1" />
-      <option name="NAME_FILTER" value="^Autenticar usuário na Alura$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Autenticar usuário na Alura$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Autenticar usuário na Alura" />
+      <option name="NAME_FILTER" value="^Abrir playlist$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^Abrir playlist$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Abrir playlist" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -336,9 +311,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Autenticar usuário na Alura" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Autenticar usuário na Alura (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resource/login.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/login.feature" />
+      <option name="GLUE" value="com.treinamento" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="auttreinamento1" />
       <option name="NAME_FILTER" value="^Autenticar usuário na Alura$" />
@@ -371,11 +347,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Scenario: Abrir playlist" />
         <item itemvalue="JUnit.RunTest" />
         <item itemvalue="Cucumber java.Feature: LoginYT" />
         <item itemvalue="Cucumber java.Feature: login" />
         <item itemvalue="Cucumber java.Scenario: Autenticar usuário na Alura (1)" />
-        <item itemvalue="Cucumber java.Scenario: Autenticar usuário na Alura" />
       </list>
     </recent_temporary>
   </component>
@@ -408,42 +384,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__LoginYT - 2019.03.26 at 16h 56m 50s.xml">
-      <configuration name="Feature: LoginYT" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__LoginYT - 2019.03.26 at 17h 16m 55s.xml">
-      <configuration name="Feature: LoginYT" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__LoginYT - 2019.03.26 at 17h 17m 52s.xml">
-      <configuration name="Feature: LoginYT" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__LoginYT - 2019.03.26 at 17h 22m 52s.xml">
-      <configuration name="Feature: LoginYT" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__LoginYT - 2019.03.26 at 17h 33m 55s.xml">
-      <configuration name="Feature: LoginYT" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="RunTest - 2019.03.26 at 17h 34m 15s.xml">
+    <history-entry file="RunTest - 2019.03.27 at 17h 04m 11s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2019.03.27 at 15h 22m 50s.xml">
+    <history-entry file="RunTest - 2019.03.27 at 17h 04m 48s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2019.03.27 at 15h 25m 03s.xml">
+    <history-entry file="RunTest - 2019.03.27 at 17h 05m 27s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2019.03.27 at 15h 29m 54s.xml">
+    <history-entry file="RunTest - 2019.03.27 at 17h 06m 18s.xml">
       <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RunTest - 2019.03.27 at 15h 31m 49s.xml">
-      <configuration name="RunTest" configurationId="JUnit" />
+    <history-entry file="Scenario__Abrir_playlist - 2019.03.27 at 17h 09m 43s.xml">
+      <configuration name="Scenario: Abrir playlist" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Abrir_playlist - 2019.03.27 at 17h 13m 11s.xml">
+      <configuration name="Scenario: Abrir playlist" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Abrir_playlist - 2019.03.27 at 17h 14m 02s.xml">
+      <configuration name="Scenario: Abrir playlist" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Abrir_playlist - 2019.03.27 at 17h 16m 00s.xml">
+      <configuration name="Scenario: Abrir playlist" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Abrir_playlist - 2019.03.27 at 17h 18m 10s.xml">
+      <configuration name="Scenario: Abrir playlist" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__Abrir_playlist - 2019.03.27 at 17h 25m 14s.xml">
+      <configuration name="Scenario: Abrir playlist" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1372" height="771" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7908046" visible="true" weight="0.27272728" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7908046" visible="true" weight="0.27727273" />
       <window_info id="Structure" order="1" sideWeight="0.2091954" side_tool="true" visible="true" weight="0.27272728" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,7 +427,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.500813" side_tool="true" weight="0.26818183" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3287037" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,6 +445,34 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7908046" visible="true" weight="0.27272728" />
+      <window_info id="Structure" order="1" sideWeight="0.2091954" side_tool="true" visible="true" weight="0.27272728" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.500813" side_tool="true" weight="0.26818183" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287037" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969134" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3287037" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teste" />
@@ -484,20 +487,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/steps/CursosSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/steps/ListarTodosOsInstrutoresSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/steps/CursosSteps.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/steps/ListarTodosOsInstrutoresSteps.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/support/Reports.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -505,24 +496,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/CarreiraPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/TaskIt/login.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/CarreiraPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/TaskIt/login.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="22" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -536,58 +535,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/YouTube/LoginYT.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="367">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/pageobjects/youtubePage/youtubePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="48" selection-start-column="33" selection-end-column="48" />
+        <state relative-caret-position="157">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/Hooks.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/steps/youtubeSteps/BuscaSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="112">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/support/Web.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/treinamento/RunTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="120">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/YouTube/LoginYT.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>

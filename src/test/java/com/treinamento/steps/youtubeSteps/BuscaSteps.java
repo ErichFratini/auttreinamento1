@@ -22,6 +22,7 @@ public class BuscaSteps {
     @Quando("^efetuar uma pesquisa coms os seguintes parametros \"([^\"]*)\"$")
     public void efetuar_uma_pesquisa_coms_os_seguintes_parametros(String arg1) throws Exception {
         this.YoutubePage.pesquisarCanal(arg1);
+        Thread.sleep(5000);
     }
 
     @Então("^sera retornado o resultado$")
@@ -32,5 +33,10 @@ public class BuscaSteps {
     public void o_video_sera_aberto() throws Exception {
         this.YoutubePage.entrarNoVideo();
         Thread.sleep(50000);
+    }
+    @Quando("^clicar no video$")
+    public void clicar_na_playlist() throws Exception {
+        this.YoutubePage.abrirPlaylist();
+        Thread.sleep(5000000);
     }
 }
