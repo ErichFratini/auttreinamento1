@@ -15,7 +15,7 @@ public class Web {
     	
     	ChromeOptions options = new ChromeOptions();
         System.setProperty("webdriver.chrome.driver", BINARY_CHROME_DRIVER);
-    	//options.addArguments("--headless");
+    	options.addArguments("--headless");
         WebDriver navegador = new ChromeDriver(options);
         navegador.manage().window().maximize();
         navegador.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
