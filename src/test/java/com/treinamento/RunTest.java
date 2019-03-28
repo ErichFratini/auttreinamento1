@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = {"pretty","html:target/Destination"},
         format={"json:target/Destination/cucumber.json"},
-        tags = {"@Abrirplaylist"},
+        tags = {""},
         features = "src/test/resources/")
 public class RunTest {
 }
