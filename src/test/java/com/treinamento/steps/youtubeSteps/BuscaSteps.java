@@ -37,6 +37,6 @@ public class BuscaSteps {
     @Quando("^clicar no video$")
     public void clicar_na_playlist() throws Exception {
         this.YoutubePage.abrirPlaylist();
-        Thread.sleep(5000000);
+        Thread.sleep(50000);
     }
 }
